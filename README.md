@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RushilBhardwaj-L
-- 👀 I’m interested in coding especailly Python
-- 🌱 I’m currently learning App Development
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning C#, C++ for Software Development
 - 📫 How to reach me rushilbhardwajl@yahoo.com
 
 <!---
